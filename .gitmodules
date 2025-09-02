@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Dev-NETI/NETI-WEBSITE-V2025-BACKEND.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Dev-NETI/NETI-WEBSITE-V2025.git
